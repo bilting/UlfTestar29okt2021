@@ -3,6 +3,6 @@ package se.bilting;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hi all Git nerds");
+        System.out.println("Hi all Git nerds!");
     }
 }
